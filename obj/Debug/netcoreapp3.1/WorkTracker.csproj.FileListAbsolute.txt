@@ -1,0 +1,12 @@
+/Users/nbs/git/WorkTracker/bin/Debug/netcoreapp3.1/WorkTracker.deps.json
+/Users/nbs/git/WorkTracker/bin/Debug/netcoreapp3.1/WorkTracker.runtimeconfig.json
+/Users/nbs/git/WorkTracker/bin/Debug/netcoreapp3.1/WorkTracker.runtimeconfig.dev.json
+/Users/nbs/git/WorkTracker/bin/Debug/netcoreapp3.1/WorkTracker.dll
+/Users/nbs/git/WorkTracker/bin/Debug/netcoreapp3.1/WorkTracker.pdb
+/Users/nbs/git/WorkTracker/obj/Debug/netcoreapp3.1/WorkTracker.csprojAssemblyReference.cache
+/Users/nbs/git/WorkTracker/obj/Debug/netcoreapp3.1/WorkTracker.AssemblyInfoInputs.cache
+/Users/nbs/git/WorkTracker/obj/Debug/netcoreapp3.1/WorkTracker.AssemblyInfo.cs
+/Users/nbs/git/WorkTracker/obj/Debug/netcoreapp3.1/WorkTracker.csproj.CoreCompileInputs.cache
+/Users/nbs/git/WorkTracker/obj/Debug/netcoreapp3.1/WorkTracker.dll
+/Users/nbs/git/WorkTracker/obj/Debug/netcoreapp3.1/WorkTracker.pdb
+/Users/nbs/git/WorkTracker/obj/Debug/netcoreapp3.1/WorkTracker.genruntimeconfig.cache
